@@ -1,0 +1,5 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp95\WindowsFormsApp95\obj\Debug\WindowsFormsApp95.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp95\WindowsFormsApp95\obj\Debug\WindowsFormsApp95.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp95\WindowsFormsApp95\obj\Debug\WindowsFormsApp95.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp95\WindowsFormsApp95\obj\Debug\WindowsFormsApp95.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp95\WindowsFormsApp95\obj\Debug\WindowsFormsApp95.csproj.CoreCompileInputs.cache
